@@ -9,6 +9,7 @@ published: true
 :::message
 これは [Xena](https://xenaproject.wordpress.com/) の記事の有志による非公式翻訳です．
 原文は [Mathematics in type theory.](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/) です．
+翻訳に際して，機械翻訳サービス[DeepL翻訳](https://www.deepl.com/ja/translator)を参考にしました．
 :::
 
 <!-- What is maths? I think it can basically be classified into four types of thing. There are definitions, true/false statements, proofs, and ideas. -->

@@ -9,6 +9,7 @@ published: true
 :::message
 これは [Xena](https://xenaproject.wordpress.com/) の記事の有志による非公式翻訳です．
 原文は [Division by zero in type theory: a FAQ](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/) です．
+翻訳に際して，機械翻訳サービス[DeepL翻訳](https://www.deepl.com/ja/translator)を参考にしました．
 :::
 
 <!-- ## Hey! I heard that Lean thinks 1/0 = 0. Is that true? -->
