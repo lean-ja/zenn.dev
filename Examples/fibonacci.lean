@@ -7,7 +7,7 @@ def fibonacci : Nat → Nat
 | n + 2 => fibonacci n + fibonacci (n + 1)
 
 -- 最初の数個の値に対してテストする
-example : [0, 1, 2, 3, 4, 5].map fibonacci = [0, 1, 1, 2, 3, 5] := rfl
+example : [0, 1, 2, 3, 4, 5].map fibonacci = [0, 1, 1, 2, 3, 5] := by rfl
 
 /-- フィボナッチ数列の速いバージョン -/
 def fib (n : Nat) : Nat :=
@@ -22,7 +22,7 @@ where
 
 -- 最初の数個の値に対してテストする
 -- `fibonacci` と同じ値になっている様子
-example : [0, 1, 2, 3, 4, 5].map fib = [0, 1, 1, 2, 3, 5] := rfl
+example : [0, 1, 2, 3, 4, 5].map fib = [0, 1, 1, 2, 3, 5] := by rfl
 
 /-- `fib` が `fibonacci` と同じ漸化式を満たすことを証明する -/
 theorem fib_add (n : Nat) : fib n + fib (n + 1) = fib (n + 2) := by
