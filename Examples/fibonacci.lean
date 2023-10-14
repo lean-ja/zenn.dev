@@ -26,10 +26,6 @@ example : [0, 1, 2, 3, 4, 5].map fib = [0, 1, 1, 2, 3, 5] := by rfl
 
 /-- `fib` が `fibonacci` と同じ漸化式を満たすことを証明する -/
 theorem fib_add (n : Nat) : fib n + fib (n + 1) = fib (n + 2) := by
-
-  -- ヘルパー関数について示せば十分
-  suffices fib.loop n + fib.loop (n + 1) = fib.loop (n + 2) from by rfl
-
   -- 定義をもとに計算すれば示せる
   rfl
 
