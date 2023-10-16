@@ -83,3 +83,7 @@ Lean は今の話でいう異星人流の慣例を使っています．異星人
 
 <!-- Thanks to Jim Propp and Alex Kontorovich for bringing this up on Twitter. I hope that this clarifies things. -->
 ツイッターでこの件を取り上げてくれた Jim Propp と Alex Kontorovich に感謝します．これで物事が明確になることを願っています．
+
+---
+
+訳者: [@Seasawher](https://github.com/Seasawher)

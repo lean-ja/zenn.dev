@@ -175,3 +175,7 @@ published: true
 | 項の例 | 37, π  | `add_zero`, `rfl`               |
 
 <!-- Cheat sheet -->
+
+---
+
+訳者: [@aconite-ac](https://github.com/aconite-ac), [@Seasawher](https://github.com/Seasawher)
