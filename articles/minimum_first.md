@@ -1,5 +1,5 @@
 ---
-title: "リストの最小値を先頭に持ってくる関数と，それが置換であることの証明を Lean Prover で実装する"
+title: "if 式で定義された関数の性質を Lean Prover でどう証明するか"
 emoji: "🔢"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lean", "lean4", "定理証明支援系", "連結リスト"]
