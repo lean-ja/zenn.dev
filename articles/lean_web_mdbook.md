@@ -48,7 +48,7 @@ https://rust-lang.github.io/mdBook/format/configuration/renderers.html#html-rend
 
 実際の JavaScript の実装ですが，以下のコードで OK だと思います．
 
-https://github.com/lean-ja/tactic-cheetsheet/blob/main/leanweb.js
+https://github.com/lean-ja/tactic-cheetsheet/blob/main/assets/leanweb.js
 
 上記のコードをコピペするなりなんなりして配置すれば，もう実装完了です．お疲れさまでした．mdbook の拡張性の高さと，既に lean playground が用意されているおかげで簡単でしたね．
 
