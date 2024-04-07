@@ -8,7 +8,7 @@ published: true
 
 Lean 4 を使ってカントールの定理（ある集合からそのベキ集合への全射は存在しない）を示します．
 
-コード片をコメント付きで載せます．実際に実行して確かめたい方は，[こちら](https://t.ly/cWxlJ)のリンクからどうぞ．
+コード片をコメント付きで載せます．
 
 ```haskell
 import Mathlib.Tactic.Common

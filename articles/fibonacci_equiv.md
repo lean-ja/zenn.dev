@@ -15,5 +15,3 @@ Lean のコードスニペットを紹介します．テーマはフィボナッ
 をそれぞれ Lean で実装したものです．
 
 @[gist](https://gist.github.com/Seasawher/33cab5255dc5d5febab7d879e9b4fa34)
-
-[Lean4 web](https://t.ly/tmjm3) のリンクも貼っておきます．
