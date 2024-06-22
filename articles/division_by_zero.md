@@ -64,7 +64,7 @@ Lean チャットでこのことを愚痴ったところ，数学者の慣習の
 
 <!-- No, not really. I’m saying that it is (a) mathematically equivalent to what we mathematicians currently do and (b) simply more convenient when formalising mathematics in dependent type theory. -->
 
-いや, そこまで言っていません．私が言っているのは，(a) 私たち数学者が現在行っていることと数学的に同等であり，(b) 従属型理論で数学を形式化する際に，単純により便利であるということです．
+いや, そこまで言っていません．私が言っているのは，(a) 私たち数学者が現在行っていることと数学的に同等であり，(b) 依存型理論で数学を形式化する際に，単純により便利であるということです．
 
 <!-- What actually is a field anyway? For a mathematician, a field is a set $F$ equipped with $0,1,a+b,-a,a\times b,a^{-1}$ where the inversion function $a^{-1}$ is only defined for non-zero $a$. The non-zero elements of a field form a group, so we have axioms such as $x\times x^{-1}=1$ for $x\not=0$ (and this doesn’t even make sense for $x=0$). Let’s say we encountered an alien species, who had also discovered fields, but their set-up involved a function $\iota :F\to F$ instead of our $x^{-1}$. Their $\iota$ was defined, using our notation, by $\iota(x)=x^{-1}$ for $x\not=0$, and $\iota(0)=0$. Their axioms are of course just the same as ours, for example they have $x\times \iota(x)=1$ for $x\not=0$. They have an extra axiom $\iota(0)=0$, but this is no big deal. It’s swings and roundabouts — they define $a/b:=a\times\iota(b)$ and their theorem $(a+b)/c=a/c+b/c$ doesn’t require $c\not=0$, whereas ours does. They are simply using slightly different notation to express the same idea. Their $\iota$ is discontinuous. Ours is not defined everywhere. But there is a canonical isomorphism of categories between our category of fields and theirs. There is no difference mathematically between the two set-ups. -->
 
